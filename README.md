@@ -10,8 +10,10 @@ The major steps involved are:
 <br />
 The EMNIST database (https://github.com/sorki/python-mnist) of publicly available handwritten characters  and EMNIST libraries required to read and understand the data were downloaded. Each image is a 28 by 28 pixel image.
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;1.1. Dividing the data into training and testing <br />
+&nbsp;&nbsp;&nbsp;&nbsp;1.1. Dividing the data into training and testing
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;The first 60,000 hand written images were used as training data and next 10,000 hand written images were used as testing data
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp;1.2. Drawing a test training data symbol using matplotlib to actually see if the EMNIST data was read.
 <br />
 <br />
@@ -27,7 +29,6 @@ An MLP Classifier was built using Sci-kit learn modules to build a neural networ
 &nbsp;&nbsp;&nbsp;&nbsp;3.2. Errors in predicting the training set were visualized using a confusion matrix
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;3.3. MLP was improved to include 5 hidden layers of 100 neurons each and 50 iterations - <b>88% accuracy was achieved for the training data and 84% for the testing data</b>
-<br />
 <br />
 <br />
 4. <b>Reading, pre-processing and predicting the hand written characters</b>
