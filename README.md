@@ -1,4 +1,4 @@
-# Hand Writing Recognizer Neural Network
+# Hand Writing Recognizer - Multi Layer Perceptron Neural Network
 <p>
 This is a multi-layer perceptron neural network written using Jupyter Notebooks to read handwritten characters as pictures and convert them to a digital copy of the same content. <br />
 <br /> <b>88% accuracy was achieved in predicting the hand written text</b>
