@@ -3,7 +3,8 @@
 This is a multi-layer perceptron neural network written using Jupyter Notebooks to read handwritten characters as pictures and convert them to a digital copy of the same content. The EMNIST dataset was used to train the neural network.<br />
 <br /> <b>88% accuracy was achieved in predicting the hand written text</b>
 <br />
-Some important links:
+<br />
+<b>Some important links:</b>
 <br />
 1. EMNIST dataset which was the input to train the data:
 <br />
@@ -26,7 +27,7 @@ https://github.com/crash-course-ai/lab1-neural-networks/tree/master/letters
 &nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Hand_Writing_Recognizer.html
 <br />
 <br />
-The major steps involved are:
+<b>The major steps involved are:</b>
 <br />
 <br />
 1. <b>Retrieving training data:</b>
