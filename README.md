@@ -1,14 +1,37 @@
 # Hand Writing Recognizer - Multi Layer Perceptron Neural Network
 <p>
-This is a multi-layer perceptron neural network written using Jupyter Notebooks to read handwritten characters as pictures and convert them to a digital copy of the same content. <br />
+This is a multi-layer perceptron neural network written using Jupyter Notebooks to read handwritten characters as pictures and convert them to a digital copy of the same content. The EMNIST dataset was used to train the neural network.<br />
 <br /> <b>88% accuracy was achieved in predicting the hand written text</b>
+<br />
+Some important links:
+<br />
+1. EMNIST dataset which was the input to train the data:
+<br />
+https://www.nist.gov/node/1298471/emnist-dataset
+<br />
+2. Python package to read and manipulate the EMNIST data set:
+<br />
+https://pypi.org/project/emnist/
+<br />
+3. The hand written images that were used as input post training:
+<br />
+https://github.com/crash-course-ai/lab1-neural-networks/tree/master/letters
+<br />
+4. Output files:
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4.a. Jupyter Notebook file:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Hand_Writing_Recognizer.ipynb
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;4.b. Jupyter Notebook file as HTML:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Hand_Writing_Recognizer.html
+<br />
 <br />
 The major steps involved are:
 <br />
 <br />
 1. <b>Retrieving training data:</b>
 <br />
-The EMNIST database (https://github.com/sorki/python-mnist) of publicly available handwritten characters  and EMNIST libraries required to read and understand the data were downloaded. Each image is a 28 by 28 pixel image.
+The EMNIST dataset() of publicly available handwritten characters and EMNIST Python packages (https://github.com/sorki/python-mnist) required to read and understand the data were downloaded. Each image is a 28 by 28 pixel image.
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;1.1. Dividing the data into training and testing
 <br />
