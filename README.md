@@ -6,6 +6,7 @@ This is a multi-layer perceptron neural network written using Jupyter Notebooks 
 <br />
 <b>Some important links:</b>
 <br />
+<br />
 1. EMNIST dataset which was the input to train the data:
 <br />
 https://www.nist.gov/node/1298471/emnist-dataset
