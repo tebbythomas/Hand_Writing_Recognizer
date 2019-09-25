@@ -70,3 +70,37 @@ An MLP Classifier was built using Sci-kit learn modules to build a neural networ
 <br /> This involved applying a Gaussian Blur and centering the image to make it similar to the EMNIST images.
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;4.6. <b>Predicted the input hand written text with 88% accuracy</b>
+<br />
+<br />
+<b>Screenshots:</b>
+<br />
+1. <b>Reading EMNIST Input Data</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/EMNIST_Input_Hand_Writing_Proj.png" hspace="20">
+<br />
+<br />
+2. <b>Training the algorithm using the EMNIST Data</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_MLP-Hand_Writing_Proj.png.png" hspace="20">
+<br />
+<br />
+3. <b>Result after Learning</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_Result-MLP-Hand_Writing_Proj.png.png" hspace="20">
+<br />
+<br />
+4. <b>Input Letters</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Input-Letters-Hand_Writing_Proj.png" hspace="20">
+<br />
+<br />
+5. <b>Applying a Gaussian Blur to the input letters to better match the EMNIST input that the algorithm was trained on</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Applying_Gaussian_Blur-Input-Hand_Writing_Proj.png" hspace="20">
+<br />
+<br />
+6. <b>Results after reading the input and applying the neural net</b>:
+<br />
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Output-Characters_Recognized.png" hspace="20">
+<br />
+<br />
