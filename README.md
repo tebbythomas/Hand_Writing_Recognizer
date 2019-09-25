@@ -81,12 +81,12 @@ An MLP Classifier was built using Sci-kit learn modules to build a neural networ
 <br />
 2. <b>Training the algorithm using the EMNIST Data</b>:
 <br />
-<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_MLP-Hand_Writing_Proj.png.png" hspace="20">
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_MLP-Hand_Writing_Proj.png" hspace="20">
 <br />
 <br />
 3. <b>Result after Learning</b>:
 <br />
-<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_Result-MLP-Hand_Writing_Proj.png.png" hspace="20">
+<img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Training_Result-MLP-Hand_Writing_Proj.png" hspace="20">
 <br />
 <br />
 4. <b>Input Letters</b>:
