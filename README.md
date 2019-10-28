@@ -104,3 +104,10 @@ An MLP Classifier was built using Sci-kit learn modules to build a neural networ
 <img src="https://github.com/tebbythomas/Hand_Writing_Recognizer/blob/master/Screenshots/Output-Characters_Recognized.png" hspace="20">
 <br />
 <br />
+<br />
+<br />
+<b>Credits:</b>
+<br />
+CrashCourse:
+<br />
+https://www.youtube.com/watch?v=6nGCGYWMObE
